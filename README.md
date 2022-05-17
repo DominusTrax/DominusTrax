@@ -1,6 +1,6 @@
 ### Hi there, I'm Dominus! 👋
 I'm a high school developer who is interested in how computers work all the way to artificial intelligence.
-I usually code with Lua, Node.JS, C#, and C++.
+I usually code with Lua, PHP, and Node.js
 
 --- 
 
