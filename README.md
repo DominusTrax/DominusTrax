@@ -1,5 +1,5 @@
 ### Hi there, I'm Tyler! 👋
-I'm a high school developer who is interested in how computers work all the way to artificial intelligence.
+I'm a college  developer who is interested in how computers work all the way to artificial intelligence.
 I usually code with Lua, PHP, and Node.js
 
 --- 
